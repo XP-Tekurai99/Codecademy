@@ -46,17 +46,17 @@ The computational work (and energy expenditure) required to mine a new block is 
 
 What would happen if one of these nodes tried to broadcast a fake transaction?
 
-An example: using the same Bitcoin twice
+### An example: using the same Bitcoin twice
 Let’s say that we tried to use our Bitcoin to buy an online course, and then immediately tried to use that same Bitcoin to order food. How does the network know which transaction to process?
 
 Note: When a Bitcoin transaction occurs, it is passed one by one through each node on the network, so not every node gets notified at the same time.
 
-Bitcoin without proof of work
+### Bitcoin without proof of work
 If the process for adding new blocks was free, any node, and any Bitcoin user, could add whatever transaction they want, and the rest of the network would have no way of knowing if they should include that transaction in their copy of the ledger or not.
 
 The network would be in disagreement about whether the online course or the food transaction should be included in the ledger.
 
-Bitcoin with proof of work
+### Bitcoin with proof of work
 To solve the problem that free blocks would create, we can return to our Proof of Work consensus mechanism: The node that solves the puzzle gets to be the one to write the new data, and the competing transaction would be dropped.
 
 Because there are also multiple miners on the network, in order to successfully create a fake transaction, we would have to control the mining power of 51% of the network, which is an enormous resource expenditure.
