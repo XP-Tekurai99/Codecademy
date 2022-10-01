@@ -35,6 +35,9 @@ Note: Nodes are only responsible for holding a copy of the existing blockchain, 
 ### Miners
 So, how does mining work? Miners are in charge of creating new blocks on the blockchain. Every block has its own nonce and hash, but every block also references the previous block’s hash. In a Proof of Work system, mining is the process of utilizing software to brute force guess the correct nonce that will generate the correct hash. A miner needs to go through roughly 4 billion permutations until the correct nonce is found. Finding the correct nonce is the “proof of work” that the consensus mechanism is named after.
 
+![image](https://user-images.githubusercontent.com/110959584/193427587-95a4a9a8-f6cd-454c-8d4e-f96459cef70e.png)
+
+
 A gif showing how Proof of Work works. It takes a hash, adds difference nonces to it, calculates the SHA-256 hash, and keeps doing this until a valid hash is found.
 
 When miners submit a nonce, it gets run through a cryptography function that will output a hash. Only when a miner gets the hash correct do they get to mine the next block.
