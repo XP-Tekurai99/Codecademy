@@ -7,7 +7,7 @@ This article is meant to be a high-level introduction to the big picture of web3
 * Why decentralization is useful
 * How blockchains accomplish decentralization
 
-## What does decentralization mean?
+## What Does Decentralization Mean?
 The simplest way to think about decentralized versus traditional centralized software is that centralized software is hosted and runs on a single computer or multiple computers run by a single entity. In a decentralized (or distributed) system, the code is running across a collection of computers all owned by individual entities. This network is usually open for anyone to join and participate in running a node.
 
 A gif showing a block that is waited to be validated by a large network
@@ -22,7 +22,7 @@ Gun (a P2P database): Gun works similarly to BitTorrent, except it is used as tr
 Lightning (a P2P payment network for Bitcoin): Lightning is a P2P layer 2 for Bitcoin. Lightning allows users to scale Bitcoin transactions by keeping a channel open, recording all the different transactions until the channel is closed, and sending the entire record of transactions to the Bitcoin chain at once.
 There is one key difference between a blockchain like Bitcoin and a P2P network like Lightning or Gun. P2P networks are ephemeral and don’t have a global state record, whereas blockchains do.
 
-## Why is decentralization useful?
+## Why is Decentralization Useful?
 There are three key benefits of decentralization:
 
 Security: The “crypto” in cryptocurrency comes from cryptography. This is the mechanism that secures individual transactions on the blockchain as well as provides the backbone of the consensus mechanism known as Proof of Work. By leveraging public key cryptography, we can create highly secure identity and user management, despite the information and transactions being public.
@@ -30,7 +30,7 @@ Transparency: Because blockchain networks are (or should be) open and viewable t
 Permanence: Because of the ledger-like nature of blockchain networks, information written to blockchains is permanent. A blockchain is literally a chain of data blocks that are all connected together, so every transaction is recorded to that ledger permanently.
 This trifecta of security, transparency, and permanence is what makes blockchain technology the ideal solution to create important infrastructure like money! It is also what allows us to use them to create censorship-resistant software that is not controlled by any one entity. This enables us to create technology and software that is open and accessible to all and cannot be blocked or censored. This is what we’ll be exploring for the remainder of this course.
 
-## How do blockchains accomplish decentralization?
+## How do Blockchains Accomplish Decentralization?
 The best way to think about a blockchain is to imagine it like a ledger. At its core, that’s what a blockchain is: a globally verifiable ledger of transactions that is collectively run and verified by each member of the network. It is a ledger of transactions that every user has access to.
 
 Imagine if Hogwarts had a “magical” accounting ledger that recorded every transaction that occurred at the school. Rather than being a traditional ledger where someone would write down the transaction in a single book, and everyone had to trust the transaction wasn’t fabricated, this book has special properties. Anybody interested can obtain their own copy of this book, and anytime anybody makes a transaction, the ledger updates everyone at the same time.
