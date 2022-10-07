@@ -2,14 +2,14 @@
 
 ## Resources and Projects from Codecademy
 
-Codecademy offers a wide variety of courses in computer science. Coursess include articles, labs, and, projects.
+Codecademy offers a wide variety of courses in computer science. Coursess include articles, labs, and projects.
 
 Courses Examples:
 * Introduction to Blockchain and Crypto
 * Learn React 
 * Learn HTML
 
-Codecademy has forums and course materials to help make learning and acquiring skills seamless.
+There are forums and course materials to help make learning and acquiring skills seamless.
 
 ## Languages and Libraries
 
