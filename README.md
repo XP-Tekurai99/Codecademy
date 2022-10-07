@@ -2,14 +2,14 @@
 
 ## Resources and Projects from Codecademy
 
-Buildspace provides resources and projects for developing skills in the blockchain space. Their projects include Web3, NFT, and DAO development.
+Codecademy offers a wide variety of courses in computer science. Coursess include articles, labs, and, projects.
 
 Courses Examples:
 * Introduction to Blockchain and Crypto
 * Learn React 
 * Learn HTML
 
-There are plenty of ways to enhance learning with Buildspace. They have a Discord server, live kickoffs, and video tutorials.
+Codecademy has forums and course materials to help make learning and acquiring skills seamless.
 
 ## Languages and Libraries
 
