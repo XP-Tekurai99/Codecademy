@@ -23,7 +23,7 @@ DAOs are a series of intentionally designed smart contracts with a UI that allow
 
 - Enforcing voting processes
 - Treasury management
-- 
+
 These are two of the primary use cases of a DAO, but a DAO could be organized around all sorts of things! In general,
 community members will create proposals for the project and then vote on them in order to drive the project forward.
 
@@ -79,6 +79,8 @@ collectively own a copy of the Constitution of the United States. They ultimatel
 
 ### CheddarDAO
 Let’s think about how we might apply what we’ve learned about DAOs to a fictional dapp, Cheddar.
+
+![image](https://user-images.githubusercontent.com/110959584/196362567-a2c5f982-6300-4e64-9715-43d6047c6362.png)
 
 An image showing the Cheddar app. Items on it look like they're made out of cheese and sell for different amount of coins.
 
