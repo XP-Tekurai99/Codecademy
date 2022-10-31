@@ -20,28 +20,28 @@ There are multiple ways to build dapps and not every piece of data should be sto
 How can we have regulation of content while still having immutable, censorship-resistant technology? There are web3 concepts, like NFTs and DAOs,
 that are unable to be shut down by a single central entity but can still have rules and regulations via voting systems.
 
-### User ownership
+### User Ownership
 Remember that at its core a blockchain is an immutable ledger. One of the properties of this architecture is that it is a permanent and immutable
 history of records of ownership of assets for users.
 
 What this means is that if someone were to create a digital good, and another person were to buy the good, we can permanently record that
 ownership on-chain via an NFT.This allows users to own their data rather than merely renting it from the centralized entities controlling the platform.
 
-### Trustless architecture
+### Trustless Architecture
 Trustless architecture is a core feature of blockchain technology. When we have operations running in a closed data silo, there is no way to know what is
 happening behind the scenes. We have to trust the entity running the platform.
 
 This problem is partially solved by making our codebase open-sourced, but we still have to trust the centralized entities hosting the code. With blockchain,
 smart contracts are code that is collectively hosted and validated by the entire network.
 
-### Native digital payments
+### Native Digital Payments
 Since one of the core features of blockchains is money, building our app on top of blockchains allows us to hook into that native currency to run our platform.
 This allows for not only a seamless payment integration but for every layer of that payment system to be censorship-resistant,
 ensuring people that may not have access to traditional financial systems can still use it.
 
 ## Why Not Decentralize?
 
-### User and developer experience
+### User and Developer Experience
 This is likely one of the biggest roadblocks the web3 industry needs to overcome. The web2 tech stack is much more mature than the web3 tech stack,
 and we have many tools, both on the developer side and on the user side, that make it much easier to use web2 apps. Decentralization itself is very new compared to
 web2, especially the contrast between data and authentication credentials living primarily on the organization’s servers vs being completely owned by the user.
