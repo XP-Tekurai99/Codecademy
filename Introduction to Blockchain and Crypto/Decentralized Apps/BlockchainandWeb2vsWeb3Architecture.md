@@ -17,7 +17,7 @@ Web3: Web applications that are built on architecture that is distributed among 
 
 At the heart of web3 development is the concept of recreating web2 web applications on top of decentralized blockchain architecture.
 
-## Web2 vs Web3 stacks
+## Web2 vs Web3 Stacks
 A typical, simplified web2 stack might include a:
 
 - Client
