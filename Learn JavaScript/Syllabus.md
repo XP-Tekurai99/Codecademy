@@ -36,7 +36,7 @@ Learn how to use if, else if, else, switch, and ternary syntax to control the fl
 - Quiz:
   - Conditional State
 
-## Functons
+## Functions
 Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax.
 
 - Lesson:
