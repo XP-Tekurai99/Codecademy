@@ -1,4 +1,4 @@
-# ReactDOM.render() I
+# ReactDOM.render()
 Let’s examine the code that you just wrote in the last exercise.
 
 ```
